@@ -1,40 +1,20 @@
 [
   {
-    "name": "Super-Peer Frankfurt 1, Germany",
-    "url": "http://sp-fra1.drasyl.org:443",
+    "name": "Baden-Baden 1, Germany",
+    "url": "http://sp-fkb1.drasyl.org:443",
     "icon": "https://docs.drasyl.org/img/favicon.ico",
-    "slug": "super-peer-frankfurt-1-germany",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 399,
-    "timeDay": 225,
-    "timeWeek": 429,
-    "timeMonth": 399,
-    "timeYear": 399,
-    "dailyMinutesDown": {
-      "2022-11-29": 46
-    }
-  },
-  {
-    "name": "Super-Peer Nuremberg 2, Germany",
-    "url": "http://sp-nbg2.drasyl.org:443",
-    "icon": "https://docs.drasyl.org/img/favicon.ico",
-    "slug": "super-peer-nuremberg-2-germany",
+    "slug": "baden-baden-1-germany",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 362,
-    "timeWeek": 370,
-    "timeMonth": 362,
-    "timeYear": 362,
+    "time": 581,
+    "timeDay": 581,
+    "timeWeek": 581,
+    "timeMonth": 581,
+    "timeYear": 581,
     "dailyMinutesDown": {}
   },
   {
@@ -48,13 +28,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 346,
-    "timeDay": 215,
-    "timeWeek": 353,
-    "timeMonth": 346,
-    "timeYear": 346,
+    "time": 357,
+    "timeDay": 415,
+    "timeWeek": 386,
+    "timeMonth": 357,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2022-12-04": 14
     }
+  },
+  {
+    "name": "Super-Peer New York City 1, USA",
+    "url": "http://sp-nyc1.drasyl.org:443",
+    "icon": "https://docs.drasyl.org/img/favicon.ico",
+    "slug": "super-peer-new-york-city-1-usa",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-12-22": 8
+    }
+  },
+  {
+    "name": "Super-Peer Singapur 1, Singapur",
+    "url": "http://sp-sgp1.drasyl.org:443",
+    "icon": "https://docs.drasyl.org/img/favicon.ico",
+    "slug": "super-peer-singapur-1-singapur",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 501,
+    "timeDay": 501,
+    "timeWeek": 501,
+    "timeMonth": 501,
+    "timeYear": 501,
+    "dailyMinutesDown": {}
   }
 ]
