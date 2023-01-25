@@ -4,19 +4,19 @@
     "url": "http://sp-fkb1.drasyl.org:443",
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "baden-baden-1-germany",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 323,
-    "timeWeek": 385,
-    "timeMonth": 363,
-    "timeYear": 375,
+    "time": 370,
+    "timeDay": 251,
+    "timeWeek": 359,
+    "timeMonth": 358,
+    "timeYear": 370,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 1
     }
   },
   {
