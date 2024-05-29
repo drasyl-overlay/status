@@ -65,9 +65,9 @@
     "url": "http://sp-sgp1.drasyl.org:443",
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "super-peer-singapur-1-singapur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,6 +76,8 @@
     "timeWeek": 494,
     "timeMonth": 508,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-29": 0
+    }
   }
 ]
