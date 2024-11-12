@@ -7,7 +7,7 @@ sites:
     url: "http://sp-fkb1.drasyl.org:443"
     icon: https://docs.drasyl.org/img/favicon.ico
   - name: Super-Peer Logroño 1, Spain
-    url: "http://sp-rjl1.drasyl.org:443"
+    url: "http://sp-rjl1.drasyl.org:22443"
     icon: https://docs.drasyl.org/img/favicon.ico
   - name: Super-Peer New York City 1, USA
     url: "http://sp-nyc1.drasyl.org:443"
