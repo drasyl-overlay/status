@@ -12,9 +12,9 @@ sites:
   - name: Super-Peer New York City 1, USA
     url: "http://sp-nyc1.drasyl.org:443"
     icon: https://docs.drasyl.org/img/favicon.ico
-  - name: Super-Peer Singapur 1, Singapur
-    url: "http://sp-sgp1.drasyl.org:443"
-    icon: https://docs.drasyl.org/img/favicon.ico
+#  - name: Super-Peer Singapur 1, Singapur
+#    url: "http://sp-sgp1.drasyl.org:443"
+#    icon: https://docs.drasyl.org/img/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
