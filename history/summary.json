@@ -49,9 +49,9 @@
     "url": "http://sp-nyc1.drasyl.org:443",
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "super-peer-new-york-city-1-usa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,7 +60,9 @@
     "timeWeek": 185,
     "timeMonth": 186,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-04": 0
+    }
   },
   {
     "name": "Super-Peer Singapur 1, Singapur",
@@ -68,11 +70,11 @@
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "super-peer-singapur-1-singapur",
     "status": "up",
-    "uptime": "93.61%",
+    "uptime": "97.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.61%",
+    "uptimeYear": "97.57%",
     "time": 519,
     "timeDay": 473,
     "timeWeek": 509,
