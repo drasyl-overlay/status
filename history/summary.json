@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 408,
-    "timeDay": 515,
-    "timeWeek": 1003,
-    "timeMonth": 529,
+    "timeDay": 469,
+    "timeWeek": 1008,
+    "timeMonth": 531,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2024-07-29": 52,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 381,
-    "timeDay": 478,
-    "timeWeek": 373,
-    "timeMonth": 377,
-    "timeYear": 386,
+    "timeDay": 341,
+    "timeWeek": 382,
+    "timeMonth": 376,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2024-04-22": 470,
       "2024-04-21": 417
@@ -47,18 +47,19 @@
     "icon": "https://docs.drasyl.org/img/favicon.ico",
     "slug": "super-peer-new-york-city-1-usa",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 173,
-    "timeWeek": 213,
+    "uptime": "99.98%",
+    "uptimeDay": "83.78%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.96%",
+    "time": 188,
+    "timeDay": 0,
+    "timeWeek": 212,
     "timeMonth": 179,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-02-15": 0
+      "2025-02-16": 80,
+      "2025-02-15": 153
     }
   },
   {
@@ -73,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 519,
-    "timeDay": 383,
-    "timeWeek": 481,
-    "timeMonth": 529,
+    "timeDay": 376,
+    "timeWeek": 467,
+    "timeMonth": 527,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2024-05-29": 11
